@@ -7,8 +7,8 @@ Millions of people in rural, low-income, and underserved communities lack access
 
 It helps users:
 
-Understand and assess symptoms
-Get safe first-aid guidance
-Decide when hospital care is urgently needed
-Manage healthcare for multiple family members under one account
+Understand and assess symptoms,
+Get safe first-aid guidance,
+Decide when hospital care is urgently needed,
+Manage healthcare for multiple family members under one account.
 
